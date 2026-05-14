@@ -1,5 +1,6 @@
-# my name jeff, im in my 2nd year of my bachelor's studying artificial intelligence and data science at loyola-icam chennai.
+# my name jeff
 
+im in the 2nd year of my bachelor's, studying artificial intelligence and data science at loyola-icam chennai.
 i like football
 
 ## about me
